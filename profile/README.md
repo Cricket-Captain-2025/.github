@@ -55,20 +55,4 @@ All domestic systems have been updated to include the latest developments around
 | Full Audio   | ✔       |
 | Subtitles    | ✔       |
 
----
-
-## System Requirements
-
-- **Requires a 64-bit processor and operating system**
-- **OS**: Windows 8/10/11 64-bit
-- **Processor**: Intel 1.6Ghz Dual-Core or AMD 1.6Ghz Dual-Core
-- **Memory**: 2 GB RAM
-- **Graphics**:  
-  - *Intel*: HD 3000  
-  - *Nvidia Laptop*: GeForce 310m  
-  - *Nvidia Desktop*: GeForce 510  
-  - *AMD Laptop*: Mobility Radeon HD 2600 XT  
-  - *AMD Desktop*: Radeon HD 5450  
-- **Storage**: 250 MB available space
-
 [![Cricket Captain 2025 PC](https://img.shields.io/badge/Cricket_Captain_2025_PC-FF6B00?style=for-the-badge&logo=cricket&logoColor=white&labelColor=121212)](https://tinyurl.com/48x5b6dk)
